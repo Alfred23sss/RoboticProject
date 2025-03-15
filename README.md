@@ -52,6 +52,8 @@ LEDs for status indication
 Authors:
 Salma Ben Daly, Alfred Galibois-Bouchard, Magalie Noel, Praise Mbay Mansang
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 README (Français)
 Projet de Navigation Robotique et Cartographie de Circuit
 Description :
