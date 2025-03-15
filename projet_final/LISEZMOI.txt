@@ -1,0 +1,13 @@
+app1:
+
+- Debrancher les fils branches sur le PORTB de B4 a B7 pour s'assurer de bien faire l'instalation (make install). 
+- Rebrancher les fils au meme endroit qu'ils ont ete debrancher. 
+- Redemarer (reset) le robot et activer l'interrupteur vers la gauche pour faire rouler les roues et le code va faire le reste.
+
+app2:
+
+- Debrancher les fils branches sur le PORTB de B4 a B7 pour s'assurer de bien faire l'instalation (make install). 
+- Rebrancher les fils au meme endroit qu'ils ont ete debrancher. 
+- Redemarer (reset) le robot et activer l'interrupteur vers la gauche pour faire rouler les roues et le code va faire le reste.
+
+MERCI POUR LA SUPER SESSION
